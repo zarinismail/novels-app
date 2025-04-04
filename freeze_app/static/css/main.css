@@ -1,0 +1,21 @@
+body {
+    font-family: 'Plus Jakarta Sans', Arial, sans-serif;
+    background: linear-gradient(#fb93bb, #ffffff);
+}
+ 
+h1, h2 {
+    font-family: 'Geologica', Verdana, sans-serif;
+}
+
+a {
+    color: #a1486a;
+}
+a:hover {
+    color: #ac647e;
+}
+footer a {
+    color: #fb93bb;
+}
+footer a:hover {
+    color: #ecabc4;
+}
